@@ -5,6 +5,7 @@ li{
   float: right;
   list-style: none;
   padding: 5px;
+  text-decoration: underline;
 }
 li:hover{
   color: red;
