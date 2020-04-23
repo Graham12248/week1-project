@@ -1,0 +1,11 @@
+.name{
+  float:left;
+}
+li{
+  float: right;
+  list-style: none;
+  padding: 5px;
+}
+li:hover{
+  color: red;
+}
