@@ -6,8 +6,30 @@ li{
   float: right;
   list-style: none;
   padding: 5px;
-  text-decoration: underline;
 }
 li:hover{
-  color: red;
+  color: blue;
+}
+.home-area{
+  text-align: center;
+  background-image: url(img/download.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:500px;
+  width: 1280px;
+}
+.navbar{
+  background-color: grey;
+  padding: 30px;
+}
+.home-area >p{
+  font-size: 50px;
+  color: green;
+  font-style: italic;
+}
+h2{
+  color: magenta;
+}
+em{
+  color:lime;
 }
