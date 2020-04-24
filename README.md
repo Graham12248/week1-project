@@ -16,9 +16,12 @@ I used: HTML
         CSS
 
 
+#### Live Link
+Below is the live link to my described project.
 
+https://graham12248.github.io/week1-project/
 
-#### License
+##### License
 
 MIT License
 
