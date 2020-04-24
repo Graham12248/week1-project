@@ -30,6 +30,26 @@ li:hover{
 h2{
   color: magenta;
 }
-em{
+.jump{
   color:lime;
+}
+table,td,th{
+  border: 1px solid yellow;
+  border-spacing: 0px;
+  color: white;
+  text-align: center;
+  flex-direction: column-reverse;
+}
+td,th{
+  padding: 5px;
+}
+p{
+  list-style-type: circle;
+}
+.about-area{
+  background-color:#d4d7de;
+  border-radius: 8px;
+}
+.contacts-area{
+  background-color: #000;
 }
