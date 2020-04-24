@@ -1,13 +1,12 @@
-.name{
-  float:left;
-  text-transform: uppercase;
-}
 li{
   float: right;
   list-style: none;
   padding: 5px;
 }
-li:hover{
+.image>p{
+  font-size: 30px;
+}
+a:hover{
   color: blue;
 }
 .home-area{
@@ -15,17 +14,29 @@ li:hover{
   background-image: url(img/download.png);
   background-size: cover;
   background-repeat: no-repeat;
-  height:500px;
+  height:550px;
   width: 1280px;
+  margin-bottom: 200px;
 }
 .navbar{
-  background-color: grey;
-  padding: 30px;
+  padding-top: 30px;
+  background-color:grey;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #d4d7de;
+  font-size: 20px;
+  z-index: 1;
+  width:1280px;
 }
 .home-area >p{
   font-size: 50px;
   color: green;
   font-style: italic;
+  padding: 40px;
 }
 h2{
   color: magenta;
@@ -35,6 +46,7 @@ body{
 }
 .image{
   background-color: #ff57;
+  border-radius: 8px;
 }
 .jump{
   color:lime;
@@ -52,9 +64,13 @@ p{
   list-style-type: circle;
 }
 .about-area{
-  background-color:#d4d7de;
+  background-color: #ff5722;;
   border-radius: 8px;
 }
 .contacts-area{
   background-color: #000;
+}
+#contacts>h1{
+  color:white;
+  font-size: 25px;
 }
