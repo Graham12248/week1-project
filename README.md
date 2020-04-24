@@ -15,10 +15,11 @@ Graham Otieno Ochieng
 I used: HTML
         CSS
 
+#### Live link
 
+ https://graham12248.github.io/week1-project/
 
-
-#### License
+##### License
 
 MIT License
 
