@@ -30,6 +30,12 @@ li:hover{
 h2{
   color: magenta;
 }
+body{
+  text-align: center;
+}
+.image{
+  background-color: #ff57;
+}
 .jump{
   color:lime;
 }
@@ -38,7 +44,6 @@ table,td,th{
   border-spacing: 0px;
   color: white;
   text-align: center;
-  flex-direction: column-reverse;
 }
 td,th{
   padding: 5px;
