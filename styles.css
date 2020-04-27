@@ -16,10 +16,10 @@ a:hover{
   background-repeat: no-repeat;
   height:550px;
   width: 1280px;
-  margin-bottom: 200px;
+  margin-bottom: 20px;
 }
 .navbar{
-  padding-top: 30px;
+  padding-top: 40px;
   background-color:grey;
   display: flex;
   width: 100%;
